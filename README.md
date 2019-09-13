@@ -36,9 +36,7 @@ sudo ldconfig
 
 ## Usage
 
-Modify the line `CACHE_ALGORITHM=` to `CACHE_ALGORITHM=libcsmgrd_filter` in  csmgrd cofigure file `csmgrd.conf`.
-Then,run Cefore. You can use filter cache plugin.
-
+Set Filter as a cache algorithm of csmgrd. Modify the line `CACHE_ALGORITHM=` to `CACHE_ALGORITHM=libcsmgrd_filter` in  csmgrd cofigure file `csmgrd.conf`. Then, run Cefore. You can use filter cache plugin.
 
 The following documents (in Japanese) help you bulding and configuring the custom cache plugin for csmgrd.
 
