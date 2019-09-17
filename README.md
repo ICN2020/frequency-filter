@@ -55,7 +55,7 @@ Yuki Koizumi
 
 Toru Hasegawa
 
-## Brieaf Description of Filter
+## Brief Description of Filter
 Filter is a frequency-based cache admission algorithm, which decides whether an incoming Data packet is inserted into the cache or not, with both lightweight computation and high cache hit rate. It is designed for high-speed Information Centric Netwokring (ICN) software routers.
 Filter improves both computation speed and cache hit rate of the cache eviction algorithm, which decides which Data packet is evicted from the cache, by bypassing wasteful cache eviction computations for unpouplar Data packets based on their frequency counter. For details about the algorithm design and performance benchmarks, please see our paper in IPSJ Journal 2019.
 
