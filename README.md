@@ -1,4 +1,4 @@
-# cefore-filter
+# frequency-filter
 This is a cache algortihm plugin of a frequency-based cache admission algorithm, Filter, for csmgrd of Cefore. 
 
 Cefore is a software platform that enables CCN-like communications and csmgrd is an implementation of a content cache running on Cefore. For details about Cefore and csmgrd, please see https://cefore.net/.
